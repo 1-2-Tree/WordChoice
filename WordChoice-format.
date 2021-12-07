@@ -1,0 +1,9 @@
+# Do not remove these comments.
+
+# This is how it looks on WordChoice.
+
+echo Click Enter to Start!
+read tapOnly
+echo Choose Version (1,2,3)
+read vX
+echo Done
